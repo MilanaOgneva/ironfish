@@ -1,2 +1,3 @@
 # ironfish
 ironfish
+gm gg
