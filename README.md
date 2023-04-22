@@ -1,5 +1,5 @@
 # ironfish
-ironfish
+
 1️⃣ npm install -g ironfish
 вводим эту команду
 
